@@ -10,4 +10,5 @@
 - UPDATE Contact
 - GET Contact
 
-![Report-Automation-Test] (Report-Automation-Test.PNG)
+![Report-Automation-Test](https://github.com/Aditiyo7/Project-Automation-API-Testing/assets/111060027/00eea54f-ba04-42bf-8db2-b6e09563c876)
+
