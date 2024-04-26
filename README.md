@@ -10,4 +10,4 @@
 - UPDATE Contact
 - GET Contact
 
-![Report-Automation-Test] (/HW-API-AUTOMATION/Report-Automation-Test.PNG)
+![Report-Automation-Test] (Report-Automation-Test.PNG)
